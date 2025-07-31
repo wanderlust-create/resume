@@ -87,4 +87,4 @@ _International & U.S. Schools · Jul 2016 – Present_
 - [SciScope](https://github.com/wanderlust-create/sciscope)
 - [Adventure Life REST API](https://github.com/wanderlust-create/adventure-life-REST-API)
 - [Artisan Marketplace](https://github.com/wanderlust-create/artisan_marketplace)
-- [Windy Civi Pipelines](https://github.com/windy-civi-pipelines/.github)
+- [Windy Civi Pipelines](https://github.com/windy-civi-pipelines)
